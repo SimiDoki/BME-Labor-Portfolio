@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="add_shopping_item">Add Shopping Item</string>
+    <string name="edit_shopping_item">Edit Shopping Item</string>
+    <string name="label_name">Name</string>
+    <string name="label_description">Description</string>
+    <string name="label_estimated_price">Estimated price</string>
+    <string name="label_already_purchased">Already purchased</string>
+    <string name="label_category">Category</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="label_purchased">Purchased\n</string>
+    <string name="label_not_purchased">Not\nPurchased</string>
+    <string name="category_food">Food</string>
+    <string name="category_book">Book</string>
+    <string name="category_electronics">Electronics</string>
+    <string name="clear">Törlés</string>
+    <string name="are_you_sure_want_to_clear">Biztosan törölni akarod a bevásárlólistát?</string>
+    <string name="ok">Ok</string>
+</resources>

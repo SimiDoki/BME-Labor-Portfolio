@@ -1,0 +1,1 @@
+Megnézzünk, hogy megfelelően működik-e az az eset, amikor egy végállomást választunk. Ez egy egyszerű egy vonalas eset. 

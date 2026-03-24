@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WorkplaceApp</string>
+    <string name="label_profile">Profile</string>
+    <string name="label_salary">Salary</string>
+    <string name="label_cafeteria">Cafeteria</string>
+    <string name="label_holiday">Holiday</string>
+    <string name="dialog_ok_button_text">OK\n</string>
+    <string name="dialog_dismiss_button_text">Cancel</string>
+</resources>

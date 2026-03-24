@@ -1,0 +1,32 @@
+/* 4.2 - Fejléc */
+header.page-header {
+    width: 100%;
+    height: 60px;
+    background-color: #A60010;
+    position: fixed;
+    z-index: 1;
+}
+
+.logo {
+    float: left;
+}
+
+.page-header ul {
+    list-style: none;
+    margin: 0;
+}
+
+.page-header ul > li {
+	display: inline-block;
+    padding: 0 20px;
+	line-height: 60px;
+}
+
+.page-header a{
+  color: white;
+  font-size: 1.1em;
+}
+.page-header a:hover {
+  color: grey;
+}
+

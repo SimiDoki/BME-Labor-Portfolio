@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidWallet</string>
+    <string name="item">Item</string>
+    <string name="price">Price</string>
+    <string name="label_empty_list">List is empty. Start adding salary.</string>
+    <string name="sum">Sum</string>
+</resources>

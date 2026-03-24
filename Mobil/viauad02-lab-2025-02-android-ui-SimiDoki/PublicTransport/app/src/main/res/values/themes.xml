@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.PublicTransport" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.PublicTransport.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#5A3DDC</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_transport_foreground</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">#5A3DDC</item>
+        <item name="postSplashScreenTheme">@style/Theme.PublicTransport</item>
+    </style>
+    <!--HT8QHM-->
+</resources>

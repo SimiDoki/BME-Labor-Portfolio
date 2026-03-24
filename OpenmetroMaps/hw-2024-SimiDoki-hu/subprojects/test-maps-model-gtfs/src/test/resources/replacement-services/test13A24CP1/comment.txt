@@ -1,0 +1,1 @@
+Kombinálva ellenőrzi, a középső határok és az egy végállomásos határa esetét.

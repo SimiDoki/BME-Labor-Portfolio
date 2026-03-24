@@ -1,0 +1,4 @@
+Minden kijelölt vonalon a kijelölt megállót megelőző megálló (Mk−1) rákövetkező megállója a kijelölt megálló rákövetkező megállója (Mk+1) lesz.
+Minden kijelölt vonalon a kijelölt megállót követő megálló (Mk+1) megelőző megállója a kijelölt megálló megelőző megállója (Mk−1) lesz.
+
+A modelt vizsgájuk meg, hogy a fenti állításoknak eleget tesz-e a kimenet.

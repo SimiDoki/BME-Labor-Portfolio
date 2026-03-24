@@ -1,0 +1,1 @@
+Ezzel egyben teszteljuk a A2/3/i/b feltételt illetve egy az előzőnél komplexebb esetét az egy végállomás kérdésnek.

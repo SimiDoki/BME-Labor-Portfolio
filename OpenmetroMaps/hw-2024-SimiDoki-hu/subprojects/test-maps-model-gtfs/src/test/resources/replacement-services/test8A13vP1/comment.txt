@@ -1,0 +1,4 @@
+Amennyiben a művelet eredményként a megállóban egy vonal sem állna meg, a megálló törlődik a modellből.
+
+Megnézzük, hogyha, minden vonalon kitöröljuk akkor eltűnik-e a modellből.
+Egyébként ez dedikált teszt nélkül is kiderülne az előző tesztekből.

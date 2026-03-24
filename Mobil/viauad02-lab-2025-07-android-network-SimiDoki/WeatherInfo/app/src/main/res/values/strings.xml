@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WeatherInfo</string>
+    <string name="button_label_ok">OK</string>
+    <string name="button_label_cancel">Cancel</string>
+    <string name="some_error_message">Something went wrong.</string>
+    <string name="label_add_city">Add city</string>
+    <string name="label_weather_in">Weather in %1$s</string>
+    <string name="label_temperature">Temperature</string>
+    <string name="label_min_temperature">Min. temperature</string>
+    <string name="label_max_temperature">Max. temperature</string>
+    <string name="label_pressure">Pressure</string>
+    <string name="label_humidity">Humidity</string>
+    <string name="label_city">City</string>
+</resources>

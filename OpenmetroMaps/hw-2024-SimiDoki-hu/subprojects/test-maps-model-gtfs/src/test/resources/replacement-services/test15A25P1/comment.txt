@@ -1,0 +1,1 @@
+Megnézzünk, hogy megfelelően átugorja-e amikor nem folyataólagosan vannak az állomások.

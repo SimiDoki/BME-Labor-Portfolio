@@ -1,0 +1,1 @@
+Megnézzük, hogy akkor is abba hagyja-e a műveletet,ha van olyan vonal amin teljesülni tudna.

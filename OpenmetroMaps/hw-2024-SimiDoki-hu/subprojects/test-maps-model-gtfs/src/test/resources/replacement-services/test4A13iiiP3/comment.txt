@@ -1,0 +1,3 @@
+Amennyiben a kijelölt megálló az egyik kijelölt vonalon végállomás volt (k=1 vagy k=n), úgy az adott vonalon a kijelölt megállót megelőző / követő megálló lesz az új végállomás (M2 / Mn−1).
+
+Mindkét kijelölt vonalon bezárja a végállomást.

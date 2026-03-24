@@ -1,0 +1,1 @@
+Megnézzük, hogy a teljes szakasz kiválasztása esetén, megfelelően nem hatja-e végre a műveletet.

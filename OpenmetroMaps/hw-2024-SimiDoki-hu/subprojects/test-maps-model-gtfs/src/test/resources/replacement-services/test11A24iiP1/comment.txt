@@ -1,0 +1,1 @@
+Megnézzük, hogy amikor egyik végállomás sincsen kiválasztva akkor megfelelően osztja szét, nevezi el és színezi az új vonalakat.

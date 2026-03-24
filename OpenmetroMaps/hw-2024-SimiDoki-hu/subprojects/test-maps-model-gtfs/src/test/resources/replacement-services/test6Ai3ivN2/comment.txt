@@ -1,0 +1,3 @@
+Minden kijelölt vonalon legalább két megállónak kell lennie. Amennyiben a bezárás művelet eredményeként ez nem biztosított, a művelet nem kerül végrehajtásra.
+
+Megnézzük, hogya akkor is jól reagál-e, ha van olyan vonal ahol megfelel a feltételnek.

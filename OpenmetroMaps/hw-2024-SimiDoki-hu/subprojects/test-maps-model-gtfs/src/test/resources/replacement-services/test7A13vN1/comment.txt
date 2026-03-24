@@ -1,0 +1,3 @@
+Amennyiben a művelet eredményként a megállóban egy vonal sem állna meg, a megálló törlődik a modellből.
+
+Megnézzük, hogy azon a vonalon ami nincs kiválasztva, meghagyja-e a megállót.
